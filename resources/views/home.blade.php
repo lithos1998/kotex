@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('content')
 
+@section('content')
     <div class="div-front-image">
         <div class="banner-info">
             <h1>Fabricamos cintas elasticas para la industria en general</h1>
@@ -53,6 +53,24 @@
         <h2>Productos destacados</h2>
 
         <div class="products-content">
+            <div class="product">
+                <div class="product-img"></div>
+                <p>Producto de linea</p>
+                <span>Elastico de embutir</span>
+            </div>
+
+            <div class="product">
+                <div class="product-img"></div>
+                <p>Producto de linea</p>
+                <span>Elastico de embutir</span>
+            </div>
+
+            <div class="product">
+                <div class="product-img"></div>
+                <p>Producto de linea</p>
+                <span>Elastico de embutir</span>
+            </div>
+
             <div class="product">
                 <div class="product-img"></div>
                 <p>Producto de linea</p>
